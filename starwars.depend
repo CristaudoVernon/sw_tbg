@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637637970 source:c:\users\vernon\desktop\cmasmas\starwars\main.cpp
+	<iostream>
+	<cmath>
+	<conio.h>
+	<stdlib.h>
+
